@@ -1,0 +1,9 @@
+# NAME: Weibo
+# UPDATED: 2024-02-25 16:03:05
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 3
+# TOTAL: 4
+HOST-SUFFIX,weibo.cn,Weibo
+HOST-SUFFIX,weibo.com,Weibo
+HOST-SUFFIX,weibocdn.com,Weibo
+HOST-KEYWORD,weibo,Weibo
