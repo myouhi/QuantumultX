@@ -33,6 +33,7 @@
   
 |:octocat:重写|:link:链接|:pushpin:说明|
 |--|--|--|
+|:white_check_mark:Documents|[:link:链接地址](https://raw.githubusercontent.com/myouhi/QuantumultX/master/Documents.js)|解锁尊享会员
 |:white_check_mark:AdBlock|[:link:链接地址](https://raw.githubusercontent.com/myouhi/QuantumultX/master/rewrite/AdBlock.conf)|开屏去广告
 |:white_check_mark:哔哩哔哩|[:link:链接地址](https://raw.githubusercontent.com/myouhi/QuantumultX/master/rewrite/bilibili.conf)|去广告
 |:white_check_mark:ChatGPT|[:link:链接地址](https://raw.githubusercontent.com/myouhi/QuantumultX/master/rewrite/ChatGPT.conf)|解锁Plus订阅
